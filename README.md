@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<p>GNSS Systems:</p>
+<h4>GNSS Systems:</h4>
 
 <img align="left" alt="GPS" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/NAVSTAR_GPS_logo.png" />
 <img align="left" alt="Galileo" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Galileo_logo.svg" />
@@ -12,6 +12,9 @@
 <img align="left" alt="Beidou" width="100px" src="https://upload.wikimedia.org/wikipedia/en/2/29/Beidou_logo.png" />
 <img align="left" alt="NAVIC" width="100px" src="https://gssc.esa.int/navipedia/images/a/a5/Isrologo.jpg" />
 
+<br />
+<br />
+<br />
 <br />
 <br />
 
@@ -54,6 +57,6 @@
 
 <br />
 
-Thanks for visiting! Check me out at [colinhuber.io](colinhuber.io).
+Thanks for visiting! Check me out at 👉 [colinhuber.io](colinhuber.io).
 
 ![Visitor Count](https://profile-counter.glitch.me/cbhuber17/count.svg)
