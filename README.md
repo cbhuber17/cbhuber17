@@ -1,5 +1,3 @@
-### Salutations!
-
 <h2> Hey there! I'm Colin.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -17,12 +15,13 @@
 <br />
 <br />
 <br />
+<br />
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Full Stack Web Development.
 - 💼 &nbsp; Working as a Software Developer for FLYHT Aerospace.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Staying up-to-date on GNSS technologies and Web Development.
 
 <br />
 
