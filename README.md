@@ -12,17 +12,15 @@
 <img align="left" alt="Beidou" width="100px" src="https://upload.wikimedia.org/wikipedia/en/2/29/Beidou_logo.png" />
 <img align="left" alt="NAVIC" width="100px" src="https://gssc.esa.int/navipedia/images/a/a5/Isrologo.jpg" />
 
+<br />
+<br />
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Full Stack Web Development.
 - 💼 &nbsp; Working as a Software Developer for FLYHT Aerospace.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -51,11 +49,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br />
-<br />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbhuber17&layout=compact)
 
-<br />
 <br />
 
 Thanks for visiting! Check me out at [colinhuber.io](colinhuber.io).
