@@ -1,6 +1,10 @@
 ### Salutations!
 
-I am a GNSS software tester and a full stack web developer!
+<h2> Hey there! I'm Colin.</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+<p>GNSS Systems:</p>
 
 <img align="left" alt="GPS" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/NAVSTAR_GPS_logo.png" />
 <img align="left" alt="Galileo" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Galileo_logo.svg" />
@@ -8,6 +12,12 @@ I am a GNSS software tester and a full stack web developer!
 <img align="left" alt="Beidou" width="100px" src="https://upload.wikimedia.org/wikipedia/en/2/29/Beidou_logo.png" />
 <img align="left" alt="NAVIC" width="100px" src="https://gssc.esa.int/navipedia/images/a/a5/Isrologo.jpg" />
 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Full Stack Web Development.
+- 💼 &nbsp; Working as a Software Developer for FLYHT Aerospace.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
 <br />
 <br />
 <br />
@@ -15,21 +25,30 @@ I am a GNSS software tester and a full stack web developer!
 <br />
 <br />
 
-### Languages and Tools:
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="HTML5" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+- 🛢 &nbsp;
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br />
 <br />
@@ -39,9 +58,6 @@ I am a GNSS software tester and a full stack web developer!
 <br />
 <br />
 
-More information to come soon! Thanks for visiting!
+Thanks for visiting! Check me out at [colinhuber.io](colinhuber.io).
 
-<br />
-<br />
-
-![Visitor Count](https://profile-counter.glitch.me/cbhuber17/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/cbhuber17/count.svg)
