@@ -56,6 +56,6 @@
 
 <br />
 
-Thanks for visiting! Check me out at 👉 [colinhuber.io](https://colinhuber.io/).
+Thanks for visiting! Check me out at 👉 [colinh.io](https://colinh.io/).
 
 ![Visitor Count](https://profile-counter.glitch.me/cbhuber17/count.svg)
