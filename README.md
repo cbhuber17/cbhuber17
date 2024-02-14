@@ -38,7 +38,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright&logoColor=007396)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -47,7 +47,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/gitlab-grey?logo=gitlab)
+  ![GitLab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
