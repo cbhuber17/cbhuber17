@@ -43,7 +43,7 @@
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
