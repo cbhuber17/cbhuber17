@@ -18,10 +18,11 @@
 <br />
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Full Stack Web Development.
-- 💼 &nbsp; Working as a Software Developer for FLYHT Aerospace.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Staying up-to-date on GNSS technologies and Web Development.
+- 🎓 &nbsp; Studying Machine Learning & Neural Networks.
+- 💼 &nbsp; Working as a Senior Staff Software Engineer for TDK Trusted Positioning.
+- 🌱 &nbsp; Growing more into Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🥋 &nbsp; Always improving and engaging with a Lean Six Sigma Green Belt.
+- ✍️ &nbsp; Staying up-to-date on Positioning & Navigation technologies and Web Development.
 
 <br />
 
@@ -36,7 +37,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright&logoColor=007396)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
